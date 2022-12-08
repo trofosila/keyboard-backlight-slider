@@ -1,0 +1,8 @@
+{
+  "name": "Keyboard Backlight Slider in Quick Settings",
+  "description": "Adds a keyboard backlight slider to the Quick Settings",
+  "version": 1,
+  "url": "https://github.com/trofosila/keyboard-backlight-slider",
+  "uuid": "keyboard-backlight-slider@zeplia.com",
+  "shell-version": ["43"]
+}
